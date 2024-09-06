@@ -8,6 +8,11 @@
 - Shows the **code** (physical key identifier).
 - Provides the **key** value (actual character or action of the key).
 
+## Live Demo
+
+You can try the project live [here](https://mohammadkiaei.github.io/key-code/)
+
+
 ## Technologies Used
 
 - HTML
